@@ -7,7 +7,6 @@ import java.util.*;
 public class HangmanGame
 {
     // Hangman word selection
-
     private String[] animals = {"AARDVARK", "ALLIGATOR", "ELEPHANT", "HIPPOPOTAMUS", "SHARK", "FOX", "TIGER", "CROCODILE", "LION", "CHEETAH", "WOLF", "FROG", "TOAD", "COW", "RABBIT"};
     private String[] food = {"CHICKEN", "BEEF", "SPINACH", "LETTUCE", "SPAGHETTI", "TACOS", "FAJITAS", "CHEESE", "STEAK", "PIZZA", "CARROTS", "sTRAWBERRIES", "RASPBERRIES", "PORK", "PANCAKES"};
     private String[] drinks = {"WATER", "SODA", "VODKA", "BEER", "WINE", "SHAKES", "COFFEE", "MOCHA", "CAPPUCCINO", "LATTE", "MARGARITA", "DAIQUIRI", "MONSTER", "TEA", "LIQUOR"};
